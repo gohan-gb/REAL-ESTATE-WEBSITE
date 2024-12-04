@@ -33,9 +33,9 @@ Before you begin working on anything, make sure you follow these steps in order 
 
     ```bash
     # If you have SSH set up with Git:
-    git@github.com:gohan-gb/Real-Estate-Website.git
+    git@github.com:gohan-gb/REAL-ESTATE-WEBSITE.git
     # Otherwise for HTTPS:
-    git clone https://github.com/gohan-gb/Real-Estate-Website.git
+    git clone https://github.com/gohan-gb/REAL-ESTATE-WEBSITE.git
 
 2. `cd` into the directory of your local clone.
   
